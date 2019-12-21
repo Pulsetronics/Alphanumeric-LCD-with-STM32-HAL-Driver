@@ -43,5 +43,5 @@ You may NOT distribute or sell this code without explicit authorization
 * (INCLUDING NEGLIGENCE), BREACH OF WARRANTY, OR OTHERWISE.
 *
 
-![LCD Display Test](https://drive.google.com/open?id=1SO-GPbt8ySrks58IoVsoYYD05vqjOvNl)
+![LCD Display Test](https://drive.google.com/file/d/1SO-GPbt8ySrks58IoVsoYYD05vqjOvNl/view)
 
